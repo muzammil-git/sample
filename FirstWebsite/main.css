@@ -1,0 +1,21 @@
+p{
+    color:blue;
+    font-size: 17px;
+}
+
+h1{
+    color:green;
+}
+
+.lookAwesome{
+    color: purple
+}
+
+#actCool{
+    color: orangered
+}
+
+article >p {
+    color:red;
+}
+
